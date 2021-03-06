@@ -1,0 +1,9 @@
+{
+  "name": "gps-bt-serial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^9.0.7"
+  }
+}
